@@ -8,7 +8,7 @@ A stripped-down, customizable UI framework for client-side Roblox Luau runtimes,
 ## Installation
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/Infinite-Yield-UI/main/EgdeUI.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/czxcxzzxzxx/infiniteyield-ui/master/source"))()
 ```
 
 ## Customization
