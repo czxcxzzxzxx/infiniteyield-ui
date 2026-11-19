@@ -1,6 +1,5 @@
 # Infinite Yield UI
-
-A stripped-down, customizable UI framework for client-side Roblox Luau runtimes, extracted from [Infinite Yield](https://github.com/EdgeIY/infiniteyield). It keeps the menu, command bar, settings panels and executor compatibility layer, and removes the built-in commands so you can build your own on top.
+Extracted Infinite Yield's ui, so other people could use the ui. [Infinite Yield](https://github.com/EdgeIY/infiniteyield)
 ---
 
 ### Credits
