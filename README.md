@@ -1,5 +1,6 @@
 # Infinite Yield UI
-Extracted Infinite Yield's ui, so other people could use the ui. [Infinite Yield](https://github.com/EdgeIY/infiniteyield)
+
+- Extracted Infinite Yield's ui, so other people could use the ui. [Infinite Yield](https://github.com/EdgeIY/infiniteyield)
 ---
 
 ### Credits
